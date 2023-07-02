@@ -1,3 +1,4 @@
+#요격시스템
 def solution(targets):
     targets.sort(key=lambda x:x[1])
     answer = 0
