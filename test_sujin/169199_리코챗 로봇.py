@@ -1,5 +1,3 @@
-# 뒤로가기했더니 이상한 코드가 나와서 우선은 넣어놨지만 점수에는 포함 안시키겠습니다
-
 from collections import deque
 def bfs(board,i,j):
     n = len(board)
